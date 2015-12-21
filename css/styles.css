@@ -90,7 +90,8 @@ hr {
   left: 0;
   height: 30px;
   transition: height 1s;
-  background-color: lightblue;
+  background-color: #F1FDF7;
+  border: 1px solid #E1D3C1;
 }
 
 .project {
