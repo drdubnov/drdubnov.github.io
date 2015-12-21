@@ -38,23 +38,12 @@ hr {
   color: white;
 }
 
-.info-header h1:hover {
-  color: lightblue;
-}
-
 #header-img {
   height: 200px;
   width: 200px;
   border: 1px solid lightgrey;
   border-radius: 10px;
   margin: 10px;
-}
-
-#header-img:hover {
-  border: solid 1px #CCC;
-  -moz-box-shadow: 1px 1px 5px lightblue;
-  -webkit-box-shadow: 1px 1px 5px lightblue;
-  box-shadow: 1px 1px 5px lightblue;
 }
 
 .header-links a {
