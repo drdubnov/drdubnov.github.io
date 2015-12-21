@@ -1,0 +1,4 @@
+INTUNITY||img/projects/intunity.jpg||Music discovery and sharing social network from 3DS Cornell||http://ec2-52-35-92-198.us-west-2.compute.amazonaws.com:3000/#/
+NBA Prediction||img/projects/nbaproject.jpg||Prediction algorithm for daily NBA matchups based on ML||http://nbaprojectteam.azurewebsites.net
+Machine Learning at Cornell||img/projects/ml.jpg||Website development for Machine Learning at Cornell research group||http://machinelearning.cis.cornell.edu/
+CUSD Website||img/projects/cusdweb.jpg||Website redesign for Cornell University Sustainable Design project team||http://cusd.cornell.edu/
