@@ -109,7 +109,7 @@ hr {
   position: absolute;
   font-size: medium;
   text-align: center;
-  bottom: -50px;
+  bottom: -70px;
   transition: bottom 1s;
   color: black;
 }
